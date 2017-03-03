@@ -1,0 +1,5 @@
+C:\workarea\net\Algorithms\Algorithms\PowerofN\bin\Debug\PowerofN.exe.config
+C:\workarea\net\Algorithms\Algorithms\PowerofN\bin\Debug\PowerofN.exe
+C:\workarea\net\Algorithms\Algorithms\PowerofN\bin\Debug\PowerofN.pdb
+C:\workarea\net\Algorithms\Algorithms\PowerofN\obj\Debug\PowerofN.exe
+C:\workarea\net\Algorithms\Algorithms\PowerofN\obj\Debug\PowerofN.pdb

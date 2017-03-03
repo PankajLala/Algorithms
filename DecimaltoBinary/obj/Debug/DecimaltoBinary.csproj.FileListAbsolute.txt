@@ -1,0 +1,5 @@
+C:\workarea\net\Algorithms\Algorithms\DecimaltoBinary\bin\Debug\DecimaltoBinary.exe.config
+C:\workarea\net\Algorithms\Algorithms\DecimaltoBinary\bin\Debug\DecimaltoBinary.exe
+C:\workarea\net\Algorithms\Algorithms\DecimaltoBinary\bin\Debug\DecimaltoBinary.pdb
+C:\workarea\net\Algorithms\Algorithms\DecimaltoBinary\obj\Debug\DecimaltoBinary.exe
+C:\workarea\net\Algorithms\Algorithms\DecimaltoBinary\obj\Debug\DecimaltoBinary.pdb

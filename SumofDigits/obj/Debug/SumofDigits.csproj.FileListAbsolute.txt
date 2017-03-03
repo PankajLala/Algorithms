@@ -1,0 +1,5 @@
+C:\workarea\net\Algorithms\Algorithms\SumofDigits\bin\Debug\SumofDigits.exe.config
+C:\workarea\net\Algorithms\Algorithms\SumofDigits\bin\Debug\SumofDigits.exe
+C:\workarea\net\Algorithms\Algorithms\SumofDigits\bin\Debug\SumofDigits.pdb
+C:\workarea\net\Algorithms\Algorithms\SumofDigits\obj\Debug\SumofDigits.exe
+C:\workarea\net\Algorithms\Algorithms\SumofDigits\obj\Debug\SumofDigits.pdb

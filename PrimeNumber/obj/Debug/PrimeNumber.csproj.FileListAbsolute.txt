@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\workarea\net\Algorithms\Algorithms\PrimeNumber\obj\Debug\PrimeNumber.pdb

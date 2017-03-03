@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\bin\Debug\DuplicateCharString.exe.config
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\bin\Debug\DuplicateCharString.exe
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\bin\Debug\DuplicateCharString.pdb
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\obj\Debug\DuplicateCharString.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\obj\Debug\DuplicateCharString.exe
+C:\workarea\net\Algorithms\Algorithms\DuplicateCharString\obj\Debug\DuplicateCharString.pdb

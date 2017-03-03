@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\bin\Debug\FactorialRecursion.exe.config
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\bin\Debug\FactorialRecursion.exe
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\bin\Debug\FactorialRecursion.pdb
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\obj\Debug\FactorialRecursion.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\obj\Debug\FactorialRecursion.exe
+C:\workarea\net\Algorithms\Algorithms\FactorialRecursion\obj\Debug\FactorialRecursion.pdb

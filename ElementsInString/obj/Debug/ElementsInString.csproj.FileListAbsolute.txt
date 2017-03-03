@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\obj\Debug\ElementsInString.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\bin\Debug\ElementsInString.exe.config
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\bin\Debug\ElementsInString.exe
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\bin\Debug\ElementsInString.pdb
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\obj\Debug\ElementsInString.exe
+C:\workarea\net\Algorithms\Algorithms\ElementsInString\obj\Debug\ElementsInString.pdb

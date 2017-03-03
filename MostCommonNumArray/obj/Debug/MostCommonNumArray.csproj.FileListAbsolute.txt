@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\bin\Debug\MostCommonNumArray.exe.config
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\bin\Debug\MostCommonNumArray.exe
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\bin\Debug\MostCommonNumArray.pdb
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\obj\Debug\MostCommonNumArray.exe
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\obj\Debug\MostCommonNumArray.pdb
+C:\workarea\net\Algorithms\Algorithms\MostCommonNumArray\obj\Debug\MostCommonNumArray.csprojResolveAssemblyReference.cache
