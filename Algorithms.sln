@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibo", "Fibo\Fibo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostCommonNumArray", "MostCommonNumArray\MostCommonNumArray.csproj", "{6AD84F97-7F0A-4684-8EB3-792764B6A67F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementsInString", "ElementsInString\ElementsInString.csproj", "{E1DDC4B9-6104-4A92-B918-B727F64AB0A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ElementsInString\ReverseString.csproj", "{E1DDC4B9-6104-4A92-B918-B727F64AB0A7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateCharString", "DuplicateCharString\DuplicateCharString.csproj", "{01B959CF-3D80-4901-BF30-1B67B6999737}"
 EndProject

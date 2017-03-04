@@ -10,6 +10,61 @@ namespace Anagrams
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(IsAnagram2("gaana", "adang"));
+            Console.ReadLine();
+        }
+
+        /*Poor implementation in terms of space and time complexity
+         * */
+        public static bool IsAnagram1(string str1, string str2)
+        {
+            char[] char1 = str1.ToLower().ToCharArray();
+            char[] char2 = str2.ToLower().ToCharArray();
+
+            Array.Sort(char1);
+            Array.Sort(char2);
+
+            if (new string(char1) == new string(char2))
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        /*
+         * Better in space and time complexity as hashtable ( generic dictionary) has time complexity for search and delete is O(1) 
+         * thus making  overall comlexity as O(2N)?. 
+        */
+        public static bool IsAnagram2(string str1, string str2)
+        {
+            Dictionary<char, int> collection = new Dictionary<char, int>();
+            
+            foreach(char c in str1.ToLower().ToCharArray())
+            {
+                int count = 0;
+                collection.TryGetValue(c, out count);
+                count++;
+                collection[c] = count;
+            }
+
+
+            foreach(char c in str2.ToLower().ToCharArray())
+            {
+                if (!collection.ContainsKey(c))
+                {
+                    return false;
+                }
+
+                if(--collection[c] == 0)
+                {
+                    collection.Remove(c);
+                }
+
+            }
+
+            return collection.Count == 0;
         }
     }
 }
