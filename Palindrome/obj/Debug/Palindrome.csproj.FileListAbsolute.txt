@@ -1,0 +1,5 @@
+C:\workarea\net\Algorithms\Algorithms\Palindrome\bin\Debug\Palindrome.exe.config
+C:\workarea\net\Algorithms\Algorithms\Palindrome\bin\Debug\Palindrome.exe
+C:\workarea\net\Algorithms\Algorithms\Palindrome\bin\Debug\Palindrome.pdb
+C:\workarea\net\Algorithms\Algorithms\Palindrome\obj\Debug\Palindrome.exe
+C:\workarea\net\Algorithms\Algorithms\Palindrome\obj\Debug\Palindrome.pdb
