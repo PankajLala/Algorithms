@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateCharString", "Dupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{550B6DE5-9447-40D9-975F-6FA0A2A2B54B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{550B6DE5-9447-40D9-975F-6FA0A2A2B54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550B6DE5-9447-40D9-975F-6FA0A2A2B54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550B6DE5-9447-40D9-975F-6FA0A2A2B54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

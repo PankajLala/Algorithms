@@ -16,7 +16,7 @@ namespace PowerofN
 
         public static int Pwr(int num, int exp)
         {
-            if (num == 1) return 0;
+            if (num == 0) return 0;
             if (exp == 0) return 1;
             return num * Pwr(num, exp - 1);
         }
