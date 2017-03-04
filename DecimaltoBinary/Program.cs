@@ -10,7 +10,7 @@ namespace DecimaltoBinary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ConvertToBinary(4));
+            Console.WriteLine(ConvertToBinary(343));
             Console.ReadLine();
         }
 
