@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\obj\Debug\SwapNumbers.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\workarea\net\Algorithms\Algorithms\SwapNumbers\obj\Debug\SwapNumbers.pdb
