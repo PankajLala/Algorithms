@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\bin\Debug\RevesetNumber.exe.config
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\bin\Debug\RevesetNumber.exe
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\bin\Debug\RevesetNumber.pdb
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\obj\Debug\RevesetNumber.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\obj\Debug\RevesetNumber.exe
+C:\workarea\net\Algorithms\Algorithms\RevesetNumber\obj\Debug\RevesetNumber.pdb

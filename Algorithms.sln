@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMissingNumberSequence", "MultipleMissingNumberSequence\MultipleMissingNumberSequence.csproj", "{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevesetNumber", "RevesetNumber\RevesetNumber.csproj", "{7C91AE2A-7A51-418A-86B0-88C0AA740BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C91AE2A-7A51-418A-86B0-88C0AA740BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C91AE2A-7A51-418A-86B0-88C0AA740BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C91AE2A-7A51-418A-86B0-88C0AA740BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C91AE2A-7A51-418A-86B0-88C0AA740BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
