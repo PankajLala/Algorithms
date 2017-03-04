@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\bin\Debug\MultipleMissingNumberSequence.exe.config
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\obj\Debug\MultipleMissingNumberSequence.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\bin\Debug\MultipleMissingNumberSequence.exe
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\bin\Debug\MultipleMissingNumberSequence.pdb
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\obj\Debug\MultipleMissingNumberSequence.exe
+C:\workarea\net\Algorithms\Algorithms\MultipleMissingNumberSequence\obj\Debug\MultipleMissingNumberSequence.pdb

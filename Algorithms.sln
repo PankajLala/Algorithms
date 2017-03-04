@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMissingNumberSequence", "MultipleMissingNumberSequence\MultipleMissingNumberSequence.csproj", "{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBDA6C6B-5E27-4E42-9021-A08E6B067F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD91921-8948-4F53-B5F8-54F51CD9C1FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
