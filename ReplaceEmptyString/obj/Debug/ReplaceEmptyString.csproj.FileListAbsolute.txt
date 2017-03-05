@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\obj\Debug\ReplaceEmptyString.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\bin\Debug\ReplaceEmptyString.exe.config
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\bin\Debug\ReplaceEmptyString.exe
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\bin\Debug\ReplaceEmptyString.pdb
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\obj\Debug\ReplaceEmptyString.exe
+C:\workarea\net\Algorithms\Algorithms\ReplaceEmptyString\obj\Debug\ReplaceEmptyString.pdb

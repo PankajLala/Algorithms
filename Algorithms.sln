@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairInArrayHavingSum", "Pai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumbers", "SwapNumbers\SwapNumbers.csproj", "{D2818C56-6EB1-4B8E-A209-1D57CF265B74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceEmptyString", "ReplaceEmptyString\ReplaceEmptyString.csproj", "{D26A0B86-8C56-4D0D-B14F-3D409277DE84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{D2818C56-6EB1-4B8E-A209-1D57CF265B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2818C56-6EB1-4B8E-A209-1D57CF265B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2818C56-6EB1-4B8E-A209-1D57CF265B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26A0B86-8C56-4D0D-B14F-3D409277DE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26A0B86-8C56-4D0D-B14F-3D409277DE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26A0B86-8C56-4D0D-B14F-3D409277DE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26A0B86-8C56-4D0D-B14F-3D409277DE84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
