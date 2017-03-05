@@ -28,5 +28,12 @@ namespace Palindrome
             }
             return true;
         }
+
+        public static bool IsPalindrome1(string str)
+        {
+            char[] c = str.ToCharArray();
+            c.Reverse();
+            return new String(c) == str;  
+        }
     }
 }
