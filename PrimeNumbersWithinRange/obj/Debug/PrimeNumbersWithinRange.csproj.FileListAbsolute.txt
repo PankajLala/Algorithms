@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\bin\Debug\PrimeNumbersWithinRange.exe.config
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\bin\Debug\PrimeNumbersWithinRange.exe
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\bin\Debug\PrimeNumbersWithinRange.pdb
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\obj\Debug\PrimeNumbersWithinRange.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\obj\Debug\PrimeNumbersWithinRange.exe
+C:\workarea\net\Algorithms\Algorithms\PrimeNumbersWithinRange\obj\Debug\PrimeNumbersWithinRange.pdb
