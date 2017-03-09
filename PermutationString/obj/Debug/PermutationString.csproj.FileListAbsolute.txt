@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\PermutationString\bin\Debug\PermutationString.exe.config
+C:\workarea\net\Algorithms\Algorithms\PermutationString\bin\Debug\PermutationString.exe
+C:\workarea\net\Algorithms\Algorithms\PermutationString\bin\Debug\PermutationString.pdb
+C:\workarea\net\Algorithms\Algorithms\PermutationString\obj\Debug\PermutationString.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\PermutationString\obj\Debug\PermutationString.exe
+C:\workarea\net\Algorithms\Algorithms\PermutationString\obj\Debug\PermutationString.pdb
