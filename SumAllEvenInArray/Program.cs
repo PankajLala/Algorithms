@@ -12,7 +12,7 @@ namespace SumAllEvenInArray
         static void Main(string[] args)
         {
             int[] arr = { 1, 3, 4, 12, 2, 7 };
-            Console.WriteLine(SumEven(arr));
+            Console.WriteLine(SumEven2(arr));
             Console.ReadLine();
         }
 
@@ -20,7 +20,7 @@ namespace SumAllEvenInArray
         private static int SumEven(int[] arr)
         {
             var sum = 0;
-            foreach(var item in arr)
+            foreach (var item in arr)
             {
                 if (item % 2 == 0)
                 {
@@ -29,6 +29,14 @@ namespace SumAllEvenInArray
             }
 
             return sum;
+
         }
+
+        private static long SumEven2(int[] arr)
+        {
+            return arr.Where(x => x % 2 == 0).Sum(i => (long)i);
+        }
+    
     }
 }
+
