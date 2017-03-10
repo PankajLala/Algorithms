@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\bin\Debug\MultipleDuplicateInNumberRange.exe.config
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\bin\Debug\MultipleDuplicateInNumberRange.exe
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\bin\Debug\MultipleDuplicateInNumberRange.pdb
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\obj\Debug\MultipleDuplicateInNumberRange.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\obj\Debug\MultipleDuplicateInNumberRange.exe
+C:\workarea\net\Algorithms\Algorithms\MultipleDuplicateInNumberRange\obj\Debug\MultipleDuplicateInNumberRange.pdb
