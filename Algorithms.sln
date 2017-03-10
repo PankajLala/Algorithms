@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationString", "Permut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDuplicateInNumberRange", "MultipleDuplicateInNumberRange\MultipleDuplicateInNumberRange.csproj", "{2B7BB47C-243C-48C2-8143-FBB9AB52D257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAllEvenInArray", "SumAllEvenInArray\SumAllEvenInArray.csproj", "{88936965-4228-4B53-A503-4831469D2093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{2B7BB47C-243C-48C2-8143-FBB9AB52D257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B7BB47C-243C-48C2-8143-FBB9AB52D257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B7BB47C-243C-48C2-8143-FBB9AB52D257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88936965-4228-4B53-A503-4831469D2093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88936965-4228-4B53-A503-4831469D2093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88936965-4228-4B53-A503-4831469D2093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88936965-4228-4B53-A503-4831469D2093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

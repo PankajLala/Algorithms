@@ -1,0 +1,5 @@
+C:\workarea\net\Algorithms\Algorithms\SumAllEvenInArray\bin\Debug\SumAllEvenInArray.exe.config
+C:\workarea\net\Algorithms\Algorithms\SumAllEvenInArray\bin\Debug\SumAllEvenInArray.exe
+C:\workarea\net\Algorithms\Algorithms\SumAllEvenInArray\bin\Debug\SumAllEvenInArray.pdb
+C:\workarea\net\Algorithms\Algorithms\SumAllEvenInArray\obj\Debug\SumAllEvenInArray.exe
+C:\workarea\net\Algorithms\Algorithms\SumAllEvenInArray\obj\Debug\SumAllEvenInArray.pdb
