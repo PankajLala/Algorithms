@@ -12,7 +12,7 @@ namespace MultipleDuplicateInNumberRange
     {
         static void Main(string[] args)
         {
-            int[] dup = { 1, 3, 2, 4, 2, 3 };
+            int[] dup = { 2,3,0,1,2,5,3 };
             IList<int> result = DuplicateInArray(dup);
             foreach(var item in result)
             {
@@ -20,6 +20,8 @@ namespace MultipleDuplicateInNumberRange
             }
             Console.ReadLine();
         }
+
+        //'Does not works when array contain 0!
 
         public static List<int> DuplicateInArray(int[] source)
         {
@@ -38,6 +40,31 @@ namespace MultipleDuplicateInNumberRange
             }
 
             return duplicate;
+        }
+
+        //works but not using the index
+        public static List<int> DuplicateInArray1(int[] source)
+        {
+            Dictionary<int, int> dup = new Dictionary<int, int>();
+            List<int> list = new List<int>();
+
+            int count = 0;
+            foreach(var item in source)
+            {
+                count = 0;
+                dup.TryGetValue(item, out count);
+
+                if (count==1)
+                {
+                    list.Add(item);
+                }
+                else
+                {
+                    dup[item] = 1;
+                }
+            }
+
+            return list;
         }
     }
 }
