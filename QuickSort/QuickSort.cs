@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuickSort
 {
+    /* Partition and divide: Take a random Pivot value, iterate to have all the items < Pivot to left and all item > Pivot to right
+     * append all three.
+     * space complexity: O(nlogn)
+     * time complexity: O(nlogn)
+     * */
     class QuickSort
     {
         static void Main(string[] args)
