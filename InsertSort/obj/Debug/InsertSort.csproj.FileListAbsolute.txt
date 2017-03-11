@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.exe.config
+C:\workarea\net\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.exe
+C:\workarea\net\Algorithms\Algorithms\InsertSort\bin\Debug\InsertSort.pdb
+C:\workarea\net\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.exe
+C:\workarea\net\Algorithms\Algorithms\InsertSort\obj\Debug\InsertSort.pdb
