@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\QuickSort\bin\Debug\QuickSort.exe.config
+C:\workarea\net\Algorithms\Algorithms\QuickSort\bin\Debug\QuickSort.exe
+C:\workarea\net\Algorithms\Algorithms\QuickSort\bin\Debug\QuickSort.pdb
+C:\workarea\net\Algorithms\Algorithms\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\QuickSort\obj\Debug\QuickSort.exe
+C:\workarea\net\Algorithms\Algorithms\QuickSort\obj\Debug\QuickSort.pdb

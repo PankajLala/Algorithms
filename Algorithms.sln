@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDuplicateInNumberRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAllEvenInArray", "SumAllEvenInArray\SumAllEvenInArray.csproj", "{88936965-4228-4B53-A503-4831469D2093}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{260DEECC-36FD-444C-B6A2-AA327EFBAF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{E74FB090-E611-451E-A6F6-FF9980C49491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,8 +141,20 @@ Global
 		{88936965-4228-4B53-A503-4831469D2093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88936965-4228-4B53-A503-4831469D2093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88936965-4228-4B53-A503-4831469D2093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74FB090-E611-451E-A6F6-FF9980C49491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74FB090-E611-451E-A6F6-FF9980C49491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74FB090-E611-451E-A6F6-FF9980C49491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74FB090-E611-451E-A6F6-FF9980C49491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E74FB090-E611-451E-A6F6-FF9980C49491} = {260DEECC-36FD-444C-B6A2-AA327EFBAF56}
+		{EAC995CB-6F91-4EB9-B864-C503DA3FEFAD} = {260DEECC-36FD-444C-B6A2-AA327EFBAF56}
 	EndGlobalSection
 EndGlobal
