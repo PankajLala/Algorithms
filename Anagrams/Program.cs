@@ -41,6 +41,7 @@ namespace Anagrams
         {
             Dictionary<char, int> collection = new Dictionary<char, int>();
             
+            //Add the number of times a character is occuring in first string.
             foreach(char c in str1.ToLower().ToCharArray())
             {
                 int count = 0;
@@ -49,7 +50,8 @@ namespace Anagrams
                 collection[c] = count;
             }
 
-
+            //then start reducing the count of characters in the dictionary while iterating the second string (if character is found) and finally removing the 
+            //character altogether. If by the end of the second strings iteration the dictionary is empty then its an anagram
             foreach(char c in str2.ToLower().ToCharArray())
             {
                 if (!collection.ContainsKey(c))

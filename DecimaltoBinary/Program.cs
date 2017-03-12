@@ -14,6 +14,8 @@ namespace DecimaltoBinary
             Console.ReadLine();
         }
 
+        //Decimal is base then binary is base 2. Thus keep on adding the reminder of %2
+
         public static double ConvertToBinary(int n)
         {
             if (n <= 0)

@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\Quic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{B4FC6127-C7A6-49A7-AC71-B3F5A23057E7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStrutures", "DataStrutures", "{947D8915-96AC-4CB7-81EB-367CF9CBF069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingParantheses", "MatchingParanthesys\MatchingParantheses.csproj", "{4571D906-0540-4D9E-B176-392E1156882E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +159,10 @@ Global
 		{B4FC6127-C7A6-49A7-AC71-B3F5A23057E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FC6127-C7A6-49A7-AC71-B3F5A23057E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FC6127-C7A6-49A7-AC71-B3F5A23057E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4571D906-0540-4D9E-B176-392E1156882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4571D906-0540-4D9E-B176-392E1156882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4571D906-0540-4D9E-B176-392E1156882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4571D906-0540-4D9E-B176-392E1156882E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

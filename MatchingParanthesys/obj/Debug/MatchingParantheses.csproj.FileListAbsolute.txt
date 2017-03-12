@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\bin\Debug\MatchingParanthesys.exe.config
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\bin\Debug\MatchingParanthesys.exe
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\bin\Debug\MatchingParanthesys.pdb
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\obj\Debug\MatchingParantheses.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\obj\Debug\MatchingParanthesys.exe
+C:\workarea\net\Algorithms\Algorithms\MatchingParanthesys\obj\Debug\MatchingParanthesys.pdb
