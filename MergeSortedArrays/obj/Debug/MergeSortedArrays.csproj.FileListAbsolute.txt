@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\bin\Debug\MergeSortedArrays.exe.config
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\bin\Debug\MergeSortedArrays.exe
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\bin\Debug\MergeSortedArrays.pdb
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\obj\Debug\MergeSortedArrays.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\obj\Debug\MergeSortedArrays.exe
+C:\workarea\net\Algorithms\Algorithms\MergeSortedArrays\obj\Debug\MergeSortedArrays.pdb

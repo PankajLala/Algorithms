@@ -1,0 +1,6 @@
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\workarea\net\Algorithms\Algorithms\FizzBuzz\obj\Debug\FizzBuzz.pdb
