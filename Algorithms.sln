@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{FE07B4CD-15BB-4455-9E8F-51BE5AFF766E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateFromString", "RemoveDuplicateFromString\RemoveDuplicateFromString.csproj", "{8EC6074D-9201-49E0-B66E-99027A0A09E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{FE07B4CD-15BB-4455-9E8F-51BE5AFF766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE07B4CD-15BB-4455-9E8F-51BE5AFF766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE07B4CD-15BB-4455-9E8F-51BE5AFF766E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC6074D-9201-49E0-B66E-99027A0A09E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC6074D-9201-49E0-B66E-99027A0A09E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC6074D-9201-49E0-B66E-99027A0A09E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC6074D-9201-49E0-B66E-99027A0A09E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,8 +12,8 @@ namespace MultipleDuplicateInNumberRange
     {
         static void Main(string[] args)
         {
-            int[] dup = { 2,3,0,1,2,5,3 };
-            IList<int> result = DuplicateInArray(dup);
+            int[] dup = { 2,3,5,1,2,5,3 };
+            IList<int> result = DuplicateInArray1(dup);
             foreach(var item in result)
             {
                 Console.WriteLine(item);
